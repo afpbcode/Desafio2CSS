@@ -1,0 +1,40 @@
+.header {
+    height: 1em;
+    padding: 5em;
+    font-size: 1em;
+    background-image: url("https://images.pexels.com/photos/1470171/pexels-photo-1470171.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-size:cover;
+    background-position: center;
+    }
+
+.header h1{
+    margin: 0px;
+    font-weight: 400;
+    }
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.productos {
+    width: 60%;
+    margin: auto;
+    }
+.productos td {
+    width: 40%;
+    padding: 1em;
+    }
+.productos img {
+    width: 80%;
+    border: solid 1px #ddd;
+    }
+    
+.footer{
+    line-height: 2em;
+    background-color: brown;
+    text-align: center;
+    color: antiquewhite;
+    font-size: medium;
+    font-weight: 700;
+}
